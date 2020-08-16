@@ -22,7 +22,20 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
-    }
+      "supportsTablet": true,
+      "bundleIdentifier": "com.skyrockets.cross",
+      "config": {
+        "googleSignIn": {
+          "reservedClientId": "com.googleusercontent.apps.212825366913-5vjle1e8fih2evaijmibfqsa4sfqncj7"
+        }
+      },
+      "googleServicesFile": "./GoogleService-Info.plist"
+    },
+    "android": {
+      "package": "com.skyrockets.cross",
+      "googleServicesFile": "./google-services.json"
+    },
+    "description": "",
+    "entryPoint": "node_modules/expo/AppEntry.js"
   }
 }

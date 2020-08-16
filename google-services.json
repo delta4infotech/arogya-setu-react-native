@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "212825366913",
+    "firebase_url": "https://cross-connections.firebaseio.com",
+    "project_id": "cross-connections",
+    "storage_bucket": "cross-connections.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212825366913:android:8d53858f071b1e19dfc880",
+        "android_client_info": {
+          "package_name": "com.skyrockets.cross"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212825366913-gco8sd642f1vdrvb72c67d9tobqo349q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBasE10gNgmnE5-jiupDsaOetDKy_d-kFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212825366913-gco8sd642f1vdrvb72c67d9tobqo349q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "212825366913-5vjle1e8fih2evaijmibfqsa4sfqncj7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.skyrockets.cross"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

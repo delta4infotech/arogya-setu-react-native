@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>212825366913-5vjle1e8fih2evaijmibfqsa4sfqncj7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.212825366913-5vjle1e8fih2evaijmibfqsa4sfqncj7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD1WEEGD90rKLKN7ImExZC8lyLLxhVKOqQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>212825366913</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.skyrockets.cross</string>
+	<key>PROJECT_ID</key>
+	<string>cross-connections</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cross-connections.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:212825366913:ios:1031b7cdef76585adfc880</string>
+	<key>DATABASE_URL</key>
+	<string>https://cross-connections.firebaseio.com</string>
+</dict>
+</plist>
